@@ -1,0 +1,45 @@
+
+body {
+  max-width: 21cm;
+  margin: auto;
+  line-height: 1.6;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+}
+
+/* headers & headings */
+header > h1 {
+  margin: 0;
+  font-size: 2em;
+  text-align: justify;
+
+}
+p {
+  text-align: justify;
+
+
+}
+
+h1, h2 {
+  color: #4b0061;
+}
+h2 {
+  margin-top: 1em;
+}
+h3 {
+  margin-top: 2.5em;
+}
+h4 {
+  font-weight: 300;
+  font-size: 1.2em;
+  font-variant: small-caps;
+  margin: 2em 0 0.5em 0;
+}
+img {
+  max-width: 21cm;
+
+
+}
+
+
+
