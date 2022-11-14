@@ -1,0 +1,149 @@
+2022-11-11 00:46:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:46:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:46:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:46:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:46:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:46:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:50:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:50:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:50:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:50:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:50:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:50:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:54:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:54:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:54:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:56:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:56:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:56:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:56:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:56:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:56:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:12 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:12 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 00:57:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 00:57:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 00:57:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 00:57:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:00:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:00:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:00:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:00:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    wirelen < buffer len
+2022-11-11 01:01:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:11 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:11 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:12 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:12 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:16 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:16 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:25 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:25 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:25 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
+2022-11-11 01:01:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/user/sensor/sensor_cod/files/pcap_info
+2022-11-11 01:01:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/user/sensor/sensor_cod/files/flow_output
+2022-11-11 01:01:30 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/user/sensor/sensor_cod/files/pcap_info/out.pcap
